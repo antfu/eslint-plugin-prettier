@@ -1,9 +1,9 @@
 {
-  "name": "eslint-plugin-prettier",
-  "version": "5.0.1",
+  "name": "@antfu/eslint-plugin-prettier",
+  "version": "5.0.1-1",
   "description": "Runs prettier as an eslint rule",
-  "repository": "git+https://github.com/prettier/eslint-plugin-prettier.git",
-  "homepage": "https://github.com/prettier/eslint-plugin-prettier#readme",
+  "repository": "git+https://github.com/antfu/eslint-plugin-prettier.git",
+  "homepage": "https://github.com/antfu/eslint-plugin-prettier#readme",
   "author": "Teddy Katz",
   "contributors": [
     "JounQin (https://github.com/JounQin) <admin@1stg.me>"
